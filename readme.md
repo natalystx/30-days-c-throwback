@@ -7,7 +7,7 @@ Welcome to the 30 Days Throwback Challenge in C! This challenge is designed to h
 Each day, you will be given a programming exercise or task to complete using the C programming language. The exercises will cover various topics and concepts in C, including data types, control flow, functions, arrays, pointers, and more.
 
 - [x] [hello_world.c](./src/hello_world.c)
-- [ ] prime_numbers.c
+- [x] [prime_numbers.c](./src/prime_numbers.c)
 - [ ] string_reverse.c
 - [ ] binary_search.c
 - [ ] linked_list.c
