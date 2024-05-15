@@ -8,7 +8,7 @@ Each day, you will be given a programming exercise or task to complete using the
 
 - [x] [hello_world.c](./src/hello_world.c)
 - [x] [prime_numbers.c](./src/prime_numbers.c)
-- [ ] string_reverse.c
+- [x] [string_reverse.c](./src/string_reverse.c)
 - [ ] binary_search.c
 - [ ] linked_list.c
 - [ ] stack.c
