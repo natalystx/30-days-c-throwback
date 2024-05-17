@@ -10,7 +10,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [prime_numbers.c](./src/prime_numbers.c)
 - [x] [string_reverse.c](./src/string_reverse.c)
 - [x] [binary_search.c](./src/binary_search.c)
-- [ ] linked_list.c
+- [x] [linked_list.c](./src/linked_list.c)
 - [ ] stack.c
 - [ ] queue.c
 - [ ] bubble_sort.c
