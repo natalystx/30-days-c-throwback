@@ -11,7 +11,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [string_reverse.c](./src/string_reverse.c)
 - [x] [binary_search.c](./src/binary_search.c)
 - [x] [linked_list.c](./src/linked_list.c)
-- [ ] stack.c
+- [x] [stack.c](./src/stack.c)
 - [ ] queue.c
 - [ ] bubble_sort.c
 - [ ] file_reader.c
