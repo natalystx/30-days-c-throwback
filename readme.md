@@ -13,7 +13,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [linked_list.c](./src/linked_list.c)
 - [x] [stack.c](./src/stack.c)
 - [x] [queue.c](./src/queue.c)
-- [ ] bubble_sort.c
+- [x] [bubble_sort.c](./src/bubble_sort.c)
 - [ ] file_reader.c
 - [ ] file_writer.c
 - [ ] matrix_operations.c
