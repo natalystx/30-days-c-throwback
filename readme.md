@@ -14,7 +14,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [stack.c](./src/stack.c)
 - [x] [queue.c](./src/queue.c)
 - [x] [bubble_sort.c](./src/bubble_sort.c)
-- [ ] file_reader.c
+- [x] [file_reader.c](./src/file_reader.c)
 - [ ] file_writer.c
 - [ ] matrix_operations.c
 - [ ] fibonacci_sequence.c
