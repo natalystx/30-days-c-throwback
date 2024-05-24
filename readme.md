@@ -17,7 +17,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [file_reader.c](./src/file_reader.c)
 - [x] [file_writer.c](./src/file_writer.c)
 - [x] [matrix_operations.c](./src/matrix_operations.c)
-- [ ] fibonacci_sequence.c
+- [x] [fibonacci_sequence.c](./src/fibonacci_sequence.c)
 - [ ] palindrome_checker.c
 - [ ] tree_traversal.c
 - [ ] graph_representation.c
