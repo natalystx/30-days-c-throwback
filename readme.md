@@ -19,7 +19,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [matrix_operations.c](./src/matrix_operations.c)
 - [x] [fibonacci_sequence.c](./src/fibonacci_sequence.c)
 - [x] [palindrome_checker.c](./src/palindrome_checker.c)
-- [ ] tree_traversal.c
+- [ ] [tree_traversal.c](./src/tree_traversal.c)
 - [ ] graph_representation.c
 - [ ] sorting_algorithms.c
 - [ ] dictionary.c
