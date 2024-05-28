@@ -21,7 +21,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [palindrome_checker.c](./src/palindrome_checker.c)
 - [x] [tree_traversal.c](./src/tree_traversal.c)
 - [x] [graph_representation.c](./src/graph_representation.c)
-- [ ] sorting_algorithms.c
+- [x] [sorting_algorithms.c](./src/sorting_algorithms.c)
 - [ ] dictionary.c
 - [ ] calculator.c
 - [ ] word_count.c
