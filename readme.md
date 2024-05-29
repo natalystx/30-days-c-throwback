@@ -22,7 +22,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [tree_traversal.c](./src/tree_traversal.c)
 - [x] [graph_representation.c](./src/graph_representation.c)
 - [x] [sorting_algorithms.c](./src/sorting_algorithms.c)
-- [ ] dictionary.c
+- [x] [dictionary.c](./src/dictionary.c)
 - [ ] calculator.c
 - [ ] word_count.c
 - [ ] image_processing.c
