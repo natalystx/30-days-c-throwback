@@ -23,7 +23,7 @@ Each day, you will be given a programming exercise or task to complete using the
 - [x] [graph_representation.c](./src/graph_representation.c)
 - [x] [sorting_algorithms.c](./src/sorting_algorithms.c)
 - [x] [dictionary.c](./src/dictionary.c)
-- [ ] calculator.c
+- [x] [calculator.c](./src/calculator.c)
 - [ ] word_count.c
 - [ ] image_processing.c
 - [ ] tcp_server.c
